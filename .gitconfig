@@ -1,0 +1,7 @@
+
+[url "git@github.com:"]
+        insteadOf = https://github.com/
+
+[url "git@git.activemall.ro:"]
+        insteadOf = https://git.activemall.ro/
+
